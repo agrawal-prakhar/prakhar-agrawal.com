@@ -11,4 +11,3 @@
 ✔️ Skills \
 ✔️ Education\
 ✔️ Contact Info\
-✔️ Resume
