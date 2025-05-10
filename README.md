@@ -1,7 +1,7 @@
 # Personal Portfolio 
 
 
-> https://agrawal-prakhar.github.io
+> https://prakhar-agrawal.com
 
 ## Sections 📚
 ✔️ About me\
