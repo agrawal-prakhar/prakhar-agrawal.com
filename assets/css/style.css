@@ -48,6 +48,8 @@
   border-radius: 45px;
   display: inline-block;
   margin: 4px;
+  background-color: transparent;
+  transition: all 0.3s ease;
 }
 
 .github {
@@ -60,6 +62,19 @@
 
 .angellist {
   color: grey;
+}
+
+.x {
+  color: black;
+}
+
+.x img {
+  filter: brightness(0);
+  transition: all 0.3s ease;
+}
+
+.x:hover img {
+  filter: brightness(100);
 }
 
 .icon-btn:hover {
@@ -77,6 +92,11 @@
 
 .github:hover {
   background-color: black;
+}
+
+.x:hover {
+  background-color: black;
+  color: white;
 }
 
 /* Buttons - Read Me, Contact Us */
